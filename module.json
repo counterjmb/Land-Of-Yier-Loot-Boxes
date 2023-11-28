@@ -1,0 +1,55 @@
+{
+  "id": "land-of-yier-loot-boxes",
+  "title": "Land Of Yier Loot Boxes",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "James Beagle",
+      "email": "counterjmb@gmail.com",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes",
+  "packs": [
+    {
+      "name": "loot-box-actors",
+      "label": "Loot Box Actors",
+      "path": "packs/loot-box-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "loot-box-items",
+      "label": "Loot Box Items",
+      "path": "packs/loot-box-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    },
+    {
+      "name": "loot-box-roll-tables",
+      "label": "Loot Box Roll Tables",
+      "path": "packs/loot-box-roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
