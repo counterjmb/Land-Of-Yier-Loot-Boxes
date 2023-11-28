@@ -1,7 +1,7 @@
 {
   "id": "land-of-yier-loot-boxes",
   "title": "Land Of Yier Loot Boxes",
-  "version": "1.1",
+  "version": "1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -52,6 +52,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.1/module.json",
-  "download": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.1/loy.zip"
+  "manifest": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.0/module.json",
+  "download": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.0/loy.zip"
 }
