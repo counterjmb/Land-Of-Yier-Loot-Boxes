@@ -52,6 +52,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/blob/main/module.json",
-  "download": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/blob/main/loy.zip"
+  "manifest": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.0/module.json",
+  "download": "https://github.com/counterjmb/Land-Of-Yier-Loot-Boxes/releases/download/r1.0/loy.zip"
 }
